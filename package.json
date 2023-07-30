@@ -1,0 +1,15 @@
+{
+    "name": "express-demo-js",
+    "type": "module",
+    "version": "1.0.0",
+    "main": "index.js",
+    "author": "nbogie",
+    "license": "MIT",
+    "scripts": {
+        "start": "node src/index.js"
+    },
+    "dependencies": {
+        "cors": "^2.8.5",
+        "express": "^4.18.2"
+    }
+}
